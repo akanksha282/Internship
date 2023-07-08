@@ -35,7 +35,7 @@ To use this template and keep a record of your codes and progress for #CrackYour
 |  | Arrays  |  |  |  |  |  |  |
 | Easy | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | ✅ |  |  |  |  | - |
 | Easy | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ✅ | - |  | - | - |  |
-| Easy | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  | - |  |  |  |  |
+| Easy | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Done | - |  |  |  |  |
 | Easy | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/) |  |  |  |  |  |  |
 | Easy | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |  | - |  |  |  |  |
 | Easy | [Sort Colors](https://leetcode.com/problems/sort-colors/) |  |  |  |  | - |  |
@@ -221,10 +221,10 @@ To use this template and keep a record of your codes and progress for #CrackYour
 | Hard | [Construct Bst From Given Preorder Traversa](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/) |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  | GRAPHS |  |  |  |  |  |  |
-| Easy | [BFS Traversal Of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |  |  |  | - |  |  |
-| Easy | [Depth First Search Or Dfs For A Graph](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) |  | - |  |  |  |  |
-| Easy | [Number Of Islands](https://leetcode.com/problems/number-of-islands/) |  |  |  |  |  |  |
-| Easy | [Flood Fill](https://leetcode.com/problems/flood-fill/) |  |  |  | - |  |  |
+| Easy | [BFS Traversal Of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Done |  |  | - |  |  |
+| Easy | [Depth First Search Or Dfs For A Graph](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) | Done | - |  |  |  |  |
+| Easy | [Number Of Islands](https://leetcode.com/problems/number-of-islands/) | Done |  |  |  |  |  |
+| Easy | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Done |  |  | - |  |  |
 | Easy | [Rat In A Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) |  |  |  |  |  |  |
 | Easy | [Detect Cycle In An Undirected Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |  |  |  |  |  |  |
 | Easy | [Detect Cycle In A Graph](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/) |  |  |  |  |  |  |
