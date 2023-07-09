@@ -37,8 +37,8 @@ To use this template and keep a record of your codes and progress for #CrackYour
 | Easy | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ✅ | - |  | - | - |  |
 | Easy | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Done | - |  |  |  |  |
 | Easy | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/) |  |  |  |  |  |  |
-| Easy | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |  | - |  |  |  |  |
-| Easy | [Sort Colors](https://leetcode.com/problems/sort-colors/) |  |  |  |  | - |  |
+| Easy | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | done | again |  |  |  |  |
+| Easy | [Sort Colors](https://leetcode.com/problems/sort-colors/) | done | R |  |  | - |  |
 | Easy | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  |  |  |  |  |  |
 | Easy | [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |  |  |  |  |
 | Easy | [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |  |  |  | - |  |  |
