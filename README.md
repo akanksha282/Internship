@@ -42,7 +42,7 @@ To use this template and keep a record of your codes and progress for #CrackYour
 | Easy | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  |  |  |  |  |  |
 | Easy | [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |  |  |  |  |
 | Easy | [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |  |  |  | - |  |  |
-| Medium | [Subarray Sums Divisible By K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |  |  |  |  |  |  |
+| Medium | [Subarray Sums Divisible By K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |Done  | Revision |  |  |  |  |
 | Medium | [Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |  |  |  |  |  | - |
 | Medium | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |  |  | - |  |  |  |
 | Medium | [3Sum](https://leetcode.com/problems/3sum/) |  | - |  |  |  |  |
