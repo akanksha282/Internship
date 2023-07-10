@@ -87,7 +87,7 @@ To use this template and keep a record of your codes and progress for #CrackYour
 |  |  |  |  |  |  |  |  |
 |  | Matrix Problems |  |  |  |  |  |  |
 | Medium | [Maximum Size Rectangle Binary Sub Matrix 1S](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/) |  |  |  |  |  |  |
-| Medium | [Find Number Of Islands](https://www.geeksforgeeks.org/find-number-of-islands/) |  |  |  |  |  |  |
+| Medium | [Find Number Of Islands](https://www.geeksforgeeks.org/find-number-of-islands/) |Done  |  |  |  |  |  |
 | Medium | [Given Matrix O X Replace O X Surrounded X](https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/) |  |  |  |  |  |  |
 | Medium | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |  |  |  |  | - |  |
 | Medium | [Rotate Image](https://leetcode.com/problems/rotate-image/) |  |  |  |  | - |  |
