@@ -64,7 +64,7 @@ To use this template and keep a record of your codes and progress for #CrackYour
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  | Strings |  |  |  |  |  |  |
-| Easy | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  |  |  |  | - |  |
+| Easy | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Done |  |  |  | - |  |
 | Easy | [Print All The Duplicates In The Input String](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) |  |  |  |  |  |  |
 | Easy | [Implement Strstr](https://leetcode.com/problems/implement-strstr/) |  |  |  |  | - |  |
 | Easy | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |  |  |  |  |  |  |
