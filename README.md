@@ -192,7 +192,7 @@ To use this template and keep a record of your codes and progress for #CrackYour
 | Medium | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) |  |  |  |  |  |  |
 | Medium | [Lowest Common Ancestor Of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |  |  |  |  |  |  |
 | Medium | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |  |  |  |  |  |  |
-| Medium | [All Nodes Distance K In Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) |  |  |  |  |  | - |
+| Medium | [All Nodes Distance K In Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | done  |again  |  |  |  | - |
 | Medium | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |  | - |  |  |  |  |
 | Medium | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) |  |  |  |  |  |  |
 | Medium | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) |  |  |  |  |  |  |
