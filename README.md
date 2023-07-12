@@ -232,7 +232,7 @@ To use this template and keep a record of your codes and progress for #CrackYour
 | Medium | [Decode String](https://leetcode.com/problems/decode-string/) |  | - |  |  |  |  |
 | Medium | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) |  | - |  |  |  |  |
 | Medium | [Number Of Operations To Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) |  | - |  | - |  |  |
-| Medium | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) |  |  |  |  |  |  |
+| Medium | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Done  | Again  | Revision  |  |  |  |
 | Medium | [Strongly Connected Componenets](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1) |  |  |  |  |  |  |
 | Medium | [Time Needed To Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) |  | - |  |  |  |  |
 | Medium | [Graph Colour Applications](https://www.geeksforgeeks.org/graph-coloring-applications/#:~:text=Graph%20coloring%20problem%20is%20to,are%20colored%20using%20same%20color) |  |  |  |  |  |  |
