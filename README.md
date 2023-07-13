@@ -48,7 +48,7 @@ To use this template and keep a record of your codes and progress for #CrackYour
 | Medium | [3Sum](https://leetcode.com/problems/3sum/) |  | - |  |  |  |  |
 | Medium | [4Sum](https://leetcode.com/problems/4sum/) |  |  | - |  |  |  |
 | Medium | [Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) |  |  | - |  |  |  |
-| Medium | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |  |  |  |  |  | - |
+| Medium | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |Done  | Concept |  |  |  | - |
 | Medium | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |  |  |  |  |  |  |
 | Medium | [Word Search](https://leetcode.com/problems/word-search/) |  |  |  |  |  |  |
 | Medium | [Jump Game](https://leetcode.com/problems/jump-game/) |  |  |  |  |  |  |
