@@ -124,10 +124,10 @@ To use this template and keep a record of your codes and progress for #CrackYour
 | Hard | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) |  |  | - |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  | Linked List |  |  |  |  |  |  |
-| Easy | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |  |  |  |  |  |  |
-| Easy | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |  | - |  |  |  |  |
-| Easy | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) |  |  |  |  |  | - |
-| Easy | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |  |  |  |  |  |  |
+| Easy | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Done |  |  |  |  |  |
+| Easy | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |  | Done |  |  |  |  |
+| Easy | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) |  |Done  | Bit Mani * |  |  | - |
+| Easy | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Done |  |  |  |  |  |
 | Easy | [Sort A Linked List Of 0S 1S Or 2S](https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/) |  |  |  |  |  |  |
 | Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |  |  |  |  | - |  |
 | Easy | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |  |  |  |  | - | - |
