@@ -65,9 +65,9 @@ To use this template and keep a record of your codes and progress for #CrackYour
 |  |  |  |  |  |  |  |  |
 |  | Strings |  |  |  |  |  |  |
 | Easy | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Done |  |  |  | - |  |
-| Easy | [Print All The Duplicates In The Input String](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) |  |  |  |  |  |  |
-| Easy | [Implement Strstr](https://leetcode.com/problems/implement-strstr/) |  |  |  |  | - |  |
-| Easy | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |  |  |  |  |  |  |
+| Easy | [Print All The Duplicates In The Input String](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) |Done  |  |  |  |  |  |
+| Easy | [Implement Strstr](https://leetcode.com/problems/implement-strstr/) | Done |  |  |  | - |  |
+| Easy | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Done | agin |  |  |  |  |
 | Easy | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |  | - |  | - |  |  |
 | Medium | [Integer To Roman](https://leetcode.com/problems/integer-to-roman/) |  | - |  |  |  |  |
 | Medium | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |  |  |  |  | - |  |
@@ -128,8 +128,8 @@ To use this template and keep a record of your codes and progress for #CrackYour
 | Easy | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |  | Done |  |  |  |  |
 | Easy | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) |  |Done  | Bit Mani * |  |  | - |
 | Easy | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Done |  |  |  |  |  |
-| Easy | [Sort A Linked List Of 0S 1S Or 2S](https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/) |  |  |  |  |  |  |
-| Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |  |  |  |  | - |  |
+| Easy | [Sort A Linked List Of 0S 1S Or 2S](https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/) |Done  |  |  |  |  |  |
+| Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Done | A |  |  | - |  |
 | Easy | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |  |  |  |  | - | - |
 | Easy | [Multiply Two Numbers Represented Linked Lists](https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/) |  |  |  |  |  |  |
 | Easy | [Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |  |  |  |  | - |  |
